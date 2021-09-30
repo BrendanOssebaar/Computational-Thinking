@@ -4,6 +4,6 @@ Git add {file nama}
 
 Git commit –m “commit”
 
-Git remote add origin –u (url)
+Git remote add origin (url)
 
-Git push
+Git push -u origin master
